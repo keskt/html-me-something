@@ -1,0 +1,60 @@
+body {
+	width: 100%;
+	max-width: 1024px;
+  margin: 0 auto;
+	background-color: teal;
+}
+
+header,
+main,
+footer {
+  background-color: #f0f0f0;
+  padding: 3em;
+}
+
+footer {
+	text-align: center;
+}
+  
+  h1 {
+  color: teal;
+  text-align: center;
+  text-transform: uppercase;
+  }
+  
+  h2,
+  h3,
+  h5 {
+  color: teal;
+  text-align: center;
+  font-family: Verdana;
+  }
+  
+  .main-list li {
+  color: rgb(80, 80, 159);
+  font-family: Verdana;
+  font-size: 24px;
+  }
+
+  p {
+	font-family: verdana;
+  font-size: 20px;
+  margin: 5px;
+  padding: 5px;
+  }
+
+  img {
+  width: 400px;
+  height: 300px;
+  align: center;
+  }
+
+  
+  .title{
+    color: teal;
+  }
+  
+  
+  #publish-time{
+    color:gray;
+  }
